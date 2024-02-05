@@ -1,0 +1,27 @@
+.data{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    align-items:center;
+
+}
+.product{
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+    align-items:center;
+}
+.products{
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+    align-items:center;
+}
+ a{  
+     cursor:pointer;
+    width:500px;
+    color:blueviolet;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+} 
